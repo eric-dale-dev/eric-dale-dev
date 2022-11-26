@@ -1,1 +1,1 @@
-### :pencil2: Currently learning Angular 14!
+### :pencil2: Currently studying for Salesforce Platform Developer 1 Cert!
